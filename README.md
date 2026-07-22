@@ -1,12 +1,8 @@
 # Implement-and-test-a-conditional-access-policy
-My organization needs to be able to limit user access to its internal applications. You must deploy an Microsoft Entra conditional access policy.
+My organization needs to be able to limit user access to its internal applications. You must deploy an Microsoft Entra conditional access 
 
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
-
-
-<h2> walk-through:</h2>
+h2> walk-through:</h2>
 
 <p align="center">
 Launch the Microsoft Entra admin center: <br/>
